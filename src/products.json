@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "product": "avena",
+      "description": "Bolsa 500 Gr",
+      "price": 89,
+      "stock": 10,
+      "image": "https://okdiario.com/img/2018/10/05/beneficios-de-la-avena-en-el-embarazo.jpg"
+    },
+    {
+      "id": 2,
+      "product": "Arroz Integral Yaman",
+      "description": "Bolsa 500 Gr",
+      "price": 74,
+      "stock": 10,
+      "image": "https://static.cotodigital3.com.ar/sitios/fotos/full/00501300/00501315.jpg?3.0.127c"
+    },
+    {
+      "id": 3,
+      "product": "Lentejon COTO Bolsa ",
+      "description": "Bolsa 500 Gr",
+      "price": 52,
+      "stock": 10,
+      "image": "https://static.cotodigital3.com.ar/sitios/fotos/full/00295700/00295704.jpg?3.0.127c"
+    },
+    {
+      "id": 4,
+      "product": "Garbanzos COTO Bolsa",
+      "description": "Bolsa 500 Gr",
+      "price": 50,
+      "stock": 10,
+      "image": "https://static.cotodigital3.com.ar/sitios/fotos/full/00295700/00295705.jpg?3.0.127c"
+    },
+    {
+      "id": 5,
+      "product": "Porotos Alubia COTO",
+      "description": "Bolsa 500 Gr",
+      "price": 80,
+      "stock": 10,
+      "image": "https://static.cotodigital3.com.ar/sitios/fotos/full/00295800/00295838.jpg?3.0.127c"
+    },
+    {
+      "id": 6,
+      "product": "Cer.Zucarita Sport Kellogg'S",
+      "description": "Bolsa 500 Gr",
+      "price": 197.09,
+      "stock": 10,
+      "image": "https://static.cotodigital3.com.ar/sitios/fotos/full/00295800/00295838.jpg?3.0.127c"
+    },
+    {
+      "id": 7,
+      "product": "Cereal Nesquik",
+      "description": "Bolsa 500 Gr",
+      "price": 340.63,
+      "stock": 10,
+      "image": "https://static.cotodigital3.com.ar/sitios/fotos/full/00295800/00295838.jpg?3.0.127c"
+    },
+    {
+      "id": 8,
+      "product": "Granola Seeds & Nuts Go Natural",
+      "description": "Bolsa 500 Gr",
+      "price": 283.85,
+      "stock": 10,
+      "image": "https://static.cotodigital3.com.ar/sitios/fotos/full/00295800/00295838.jpg?3.0.127c"
+    },
+    {
+      "id": 9,
+      "product": "Aritos Frutados . Kellogg'S",
+      "description": "Bolsa 500 Gr",
+      "price": 140.31,
+      "stock": 10,
+      "image": "https://static.cotodigital3.com.ar/sitios/fotos/full/00295800/00295838.jpg?3.0.127c"
+    }
+  ]
+}
